@@ -22,3 +22,6 @@
 [![](https://komarev.com/ghpvc/?username=SaumyaMalhotra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=SaumyaMalhotra&icon=10&color=6)](https://visitcount.itsvg.in)
+
+
